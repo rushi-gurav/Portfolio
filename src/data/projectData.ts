@@ -29,7 +29,7 @@ export const projects: Project[] = [
     title: "Weather App",
     description: "A real-time weather forecasting app displaying current weather conditions based on user location.",
     technologies: ["React", "OpenWeather API", "Tailwind CSS"],
-    link: "https://weather-web-rushi.vercel.app",
+    link: "https://img.freepik.com/premium-vector/weather-climate-vocabulary-with-cute-cartoon-characters-kids_535862-1422.jpg",
     github: "https://github.com/your-repo/weather-app",
     image: "src/Images/WeatheApp.jpg",
     modelPosition: [1, 0, -2],
