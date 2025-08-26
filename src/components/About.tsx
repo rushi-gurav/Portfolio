@@ -33,7 +33,7 @@ const About: React.FC = () => {
             className="flex justify-center"
           >
             <motion.img
-              src="https://drive.google.com/file/d/1e1C8YmvTbjGBXyV3_twIX_o9Fa40x5qX/view?usp=drive_link" // Replace with actual image path
+              src="public/me.JPG" // Replace with actual image path
               alt="Your Name"
               className="w-64 h-64 md:w-80 md:h-80 rounded-full object-cover shadow-lg border-4 border-gray-700"
             />
