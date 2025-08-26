@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Ensure no horizontal scrolling */
+html, body {
+    overflow-x: hidden;
+  }
+  
